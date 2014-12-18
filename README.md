@@ -50,3 +50,11 @@ WEEK 14
 Week 15
 ------
 http://benlevywebdesign.com/thefogsf/
+
+Week 16
+-------
+- Fix the inner page scrolling animations
+- Responsivness of the menu
+- Goldengate image for the homepage
+- Reassess the animations
+- Make scrolling more apparent on the inner pages
